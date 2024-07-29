@@ -112,7 +112,7 @@ const API_KEY = "<Your API key>";
 
 
 # [6] Contact
-- 📧 본인이메일@gmail.com
+- 📧 dsj1201@gmail.com
 - 📋 [https://www.github.com](https://www.github.io/contact)
 
 
